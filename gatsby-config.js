@@ -3,7 +3,14 @@ module.exports = {
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
-    "gatsby-plugin-manifest",
+    //{
+    //  resolve: `gatsby-plugin-manifest`,
+    //  options: {
+    //    name: `Fallfish Tenkara`,
+    //    start_url: `/`,
+    //    icon: `content/assets/FfT_Logo_Thumbnail.png`
+    //  }
+    //},
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
